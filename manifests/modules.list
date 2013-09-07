@@ -33,6 +33,7 @@ quantum
 rabbitmq
 rsync
 ssh
+statsd
 stdlib
 swift
 sysctl
